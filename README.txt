@@ -17,9 +17,9 @@ GNSSLoggerR: https://github.com/superhang/GNSSLogger
 
 3. this app is using a string buffer, normally a 1 minute time during test can be accepted to store the observation file. otherwise, the log text file maybe empty since the buffer was not full filled.
 
-4. there are two fragments, the first one is the "settings" and the other one "log". trigger the switches at the "setting" fragment and slide to the "log" fragment, click the button"start log" to stat the logging.
+4. there are two fragments, the first one is the "settings" and the other one "log". trigger the switches at the "setting" fragment and slide to the "log" fragment, click the button"start log" to start the logging.
 
-if you have some suggestion and give support this conintous development, plz send information the author:
+if you have some suggestions or give support this contineous development, plz send information the author:
 yanwenlin@jsnu.edu.cn
 
 
